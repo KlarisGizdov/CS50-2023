@@ -1,0 +1,2 @@
+The audio aura might be calculated from the top 100 songs of the user by the average of dancebility, energy and valence
+This might not be the best way to calculate the aura, because you can never know if the user even likes dancing
